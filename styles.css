@@ -1,0 +1,18 @@
+.cent {
+
+    margin: auto;
+    align-items: center;
+    vertical-align:middle;
+}
+._1 {
+    background-color: #33ff33;
+}
+._2 {
+    background-color: #ffff00;
+}
+._3 {
+    background-color: #ff2b2b;
+}
+._0 {
+    background-color: white;
+}
